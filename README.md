@@ -1,1 +1,7 @@
-# School-app-C1
+# Introduction
+# Description
+# Table des matières
+# Installer
+# Utilisation
+# Contribution
+# Licence
