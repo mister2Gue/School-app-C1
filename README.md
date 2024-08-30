@@ -18,7 +18,7 @@ Pour installer ce projet, il suffit simplement de cloner le projet, Vous pouvez 
 
 # Utilisation
 Dans le dossier asssets, vous y trouverez trois dossiers, a savoir, un dossier css qui contient les fichiers de styles, un dossier js contenant les fichiers de scripts et un dossier images qui contient les images du projet.
-
+```
   SchoolApp/
   |
   ├── assets/
@@ -30,7 +30,7 @@ Dans le dossier asssets, vous y trouverez trois dossiers, a savoir, un dossier c
   |  ├── cours.html
   |  ├── allCours.html
   └── index.html/
-  
+```
 # Contribution
 
 Pour contribuer, vous pouvez clonner et démarrer le projet, ensuite apporter vos modifications, faire vos commits et demander un pullRequest.
@@ -38,5 +38,10 @@ Pour contribuer, vous pouvez clonner et démarrer le projet, ensuite apporter vo
 # Licence
 
 Ce projet est conçu par les apprenants de la cohorte 1 de wommate, dans le cadre du bootcamp fullStack JS. Il est libre d'accés.
+
+# Dossier Apprenants
+
+> Bakary
+  - [My work](exemple)
 
 
